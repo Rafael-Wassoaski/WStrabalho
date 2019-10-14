@@ -1,0 +1,5 @@
+Django==2.1.12
+django-crispy-forms==1.7.2
+djangorestframework==3.10.3
+Pillow==5.0.0
+pytz==2018.9
